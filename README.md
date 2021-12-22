@@ -1,4 +1,4 @@
-<<I code, therefore, I am>>
+I code, therefore, I am
 - 👋 Hi, I’m @AkirasBlade28
 - 👀 I’m interested in ...Backend software develop
 - 🌱 I’m currently learning ...Java
